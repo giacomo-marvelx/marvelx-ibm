@@ -43,10 +43,3 @@ This Agreement shall be governed by and construed in accordance with the laws of
 Entire Agreement: This EULA constitutes the complete agreement between MarvelX and the Customer regarding the Software. Amendments: MarvelX may update this EULA upon notice through IBM’s marketplace. Assignment: Neither party may assign rights or obligations without prior written consent, except in the event of merger or acquisition. Severability: If any provision is held invalid, the remainder shall remain in effect.
 
 By accessing or using the MarvelX Software via IBM’s Watsonx Marketplace, the Customer agrees to be bound by the terms of this End User License Agreement.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Ali el Hassouni, CEO – MarvelX.ai B.V.  
-Name:  
-Title:  
-Date:
-
